@@ -24,9 +24,6 @@ Status : The next season begins in 2019
 TV Series name : sherlock
 Status : The show has finished streaming all it's episodes. 
 
-TV Series name : suits
-Status : The show has finished streaming all it's episodes. 
-```
 ## Table Schema Example :
 Table name-users2
 
