@@ -2,7 +2,7 @@
 A Python script that asks multiple users for their email address and their favourite TV show,Stores them into the MySql Database table,fetches the status of TV shows from websites such as [Imdb](https://www.imdb.com) and [Next Episode](https://www.next-episode.net).Stores the status in another table and sends a single Email to each user consisting of their TV favourite shows and their AIR status.
 
 ## Example use case :
-Input :
+ Input :
 ```
 Enter the number of entries : 3
 Email address: abc@gmail.com
