@@ -33,7 +33,7 @@ Table name-users2
 |mus@gmail.com|pitchers,suits,sherlock|
 
 
-Table name - showstats1 (The table contains status of all Unique shows
+Table name - showstats1 The table contains status of all Unique shows
 
 |ShowName|Status|
 |--------|------|
